@@ -1,6 +1,6 @@
 # AB-Testing-Online-Store
 ## Project Overview
-You have received an analytical task from an international online store. Your predecessor failed to complete it. They launched an A/B test and then quit. They left only the technical specifications and the test results.
+This project involves completing an analytical task from an international online store that was left unfinished by the predecessor. An A/B test was launched, but then it was abandoned. Only the technical specifications and test results were left.
 
 ### Technical Description
 
